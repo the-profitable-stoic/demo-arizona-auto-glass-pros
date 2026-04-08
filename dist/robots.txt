@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-arizona-auto-glass-pros.dream-surge.com/sitemap-index.xml

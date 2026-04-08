@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Arizona Auto Glass Pros",
+    "phone": "+14807100437",
+    "category": "window replacement company",
+    "city": "Mesa",
+    "state": "AZ"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Mesa's Trusted Window Replacement",
+      "heroSubline": "Arizona's harsh climate demands top-quality window solutions. We deliver expert installation and lasting performance for your Mesa home or business.",
+      "aboutTitle": "Arizona Auto Glass Pros: Built for the Desert",
+      "aboutText": [
+        "Arizona Auto Glass Pros started over a decade ago with a simple mission: to provide Mesa residents with reliable, durable window solutions that can withstand our extreme climate. We saw too many homes with failing seals, cracked glass, and energy-wasting windows – problems directly caused by the Arizona sun.",
+        "Our approach is straightforward: quality materials, expert craftsmanship, and transparent communication. We don't cut corners. We assess your specific needs, recommend the best products for your budget, and ensure every installation is done right the first time. We stand behind our work with solid warranties and a commitment to your satisfaction.",
+        "We're proud to be a part of the Mesa community. We actively support local schools and charities, and we believe in giving back to the people who have supported us. When you choose Arizona Auto Glass Pros, you're not just getting new windows; you're investing in a local business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Arizona-Grade Windows",
+          "description": "Designed to withstand extreme heat, UV radiation, and dust storms. We use only the toughest materials."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our certified technicians ensure precise fitting and sealing for maximum energy efficiency and longevity."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprise charges. We provide clear, detailed quotes upfront."
+        },
+        {
+          "title": "Local & Reliable",
+          "description": "We're a Mesa-based company committed to serving our community with integrity and exceptional service."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Window Quote Today!",
+      "ctaSubline": "Protect your home and save on energy bills with new, high-performance windows."
+    },
+    "services": [
+      {
+        "slug": "residential-window-replacement",
+        "name": "Residential Window Replacement",
+        "shortDescription": "Upgrade your Mesa home with energy-efficient, durable windows.",
+        "description": "Arizona Auto Glass Pros specializes in residential window replacement, providing homeowners in Mesa with a wide range of options to enhance their homes' beauty, comfort, and energy efficiency. We understand the unique challenges of the Arizona climate and offer windows specifically designed to withstand extreme heat, intense UV radiation, and monsoon season dust storms. \n\nOur team will guide you through the selection process, helping you choose the right window styles, materials, and glass packages to meet your needs and budget. From classic single-hung windows to modern sliding windows and elegant bay windows, we offer a variety of designs to complement any architectural style. We prioritize energy efficiency, offering low-E glass coatings and insulated frames to reduce heat gain and lower your energy bills. \n\nWe handle every aspect of the installation process with precision and care, ensuring a perfect fit and a seamless finish. Our experienced technicians use industry-leading techniques and high-quality materials to guarantee long-lasting performance and protection for your home. We also offer window repair services.",
+        "process": [
+          "Initial Consultation: Discuss your needs and budget.",
+          "Window Selection: Choose the perfect windows for your home.",
+          "Professional Installation: Expert technicians ensure a perfect fit.",
+          "Final Inspection: We guarantee your satisfaction."
+        ],
+        "benefits": [
+          "Increased Energy Efficiency",
+          "Improved Home Value",
+          "Enhanced Curb Appeal",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does window replacement take?",
+            "answer": "Typically, a full house window replacement takes 1-3 days, depending on the number of windows and complexity of the project."
+          },
+          {
+            "question": "What type of windows are best for Arizona's climate?",
+            "answer": "Low-E glass windows with insulated frames are ideal for reducing heat gain and lowering energy bills in Mesa."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make window replacement more affordable for our customers. Contact us to learn more."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-window-replacement",
+        "name": "Commercial Window Replacement",
+        "shortDescription": "Improve your business's energy efficiency and aesthetics with our commercial window solutions.",
+        "description": "Arizona Auto Glass Pros provides comprehensive commercial window replacement services for businesses throughout Mesa and the surrounding areas. We understand that commercial windows play a crucial role in a building's energy efficiency, security, and overall appearance. Our team works closely with business owners and property managers to assess their specific needs and recommend the best window solutions for their properties.\n\nWe offer a wide range of commercial-grade windows, including storefront windows, office windows, and industrial windows. Our windows are designed to withstand heavy use and provide superior insulation, noise reduction, and security. We also offer custom window solutions to meet unique architectural requirements.\n\nOur experienced technicians are skilled in handling large-scale window replacement projects with minimal disruption to your business operations. We prioritize safety and efficiency, ensuring that every project is completed on time and within budget. We also offer ongoing maintenance and repair services to keep your commercial windows in top condition.",
+        "process": [
+          "Site Assessment: Evaluate your building's window needs.",
+          "Product Selection: Choose durable, energy-efficient commercial windows.",
+          "Professional Installation: Minimize disruption to your business.",
+          "Project Completion: Ensure your satisfaction."
+        ],
+        "benefits": [
+          "Reduced Energy Costs",
+          "Improved Building Security",
+          "Enhanced Aesthetics",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial windows do you offer?",
+            "answer": "We offer a wide variety of commercial windows, including storefront windows, office windows, and industrial windows, in various materials and styles."
+          },
+          {
+            "question": "How long does commercial window replacement take?",
+            "answer": "The duration of a commercial window replacement project depends on the size and complexity of the project. We provide detailed timelines during the initial consultation."
+          },
+          {
+            "question": "Do you offer warranties on commercial window replacements?",
+            "answer": "Yes, we offer comprehensive warranties on all our commercial window replacements, covering both materials and workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair Services",
+        "shortDescription": "Fast, reliable window repair services to fix cracks, leaks, and broken seals.",
+        "description": "Arizona Auto Glass Pros offers expert window repair services to address a wide range of issues, from cracked glass and broken seals to damaged frames and malfunctioning hardware. We understand that damaged windows can compromise your home's energy efficiency, security, and appearance. Our team provides prompt and reliable repair services to restore your windows to their optimal condition.\n\nWe handle all types of window repairs, including glass replacement, seal repair, frame repair, and hardware replacement. Our technicians use high-quality materials and advanced techniques to ensure long-lasting repairs. We also offer emergency window repair services for urgent situations.\n\nWhether you have a single cracked window or multiple windows with condensation problems, we can provide cost-effective repair solutions to save you the expense of full window replacement. We're committed to providing honest assessments and transparent pricing, so you can make informed decisions about your window repair needs.",
+        "process": [
+          "Inspection: Assess the damage and provide a detailed quote.",
+          "Repair Options: Discuss repair versus replacement options.",
+          "Expert Repair: Skilled technicians restore your windows.",
+          "Quality Check: Ensure the repair meets our high standards."
+        ],
+        "benefits": [
+          "Cost-Effective Solutions",
+          "Improved Energy Efficiency",
+          "Enhanced Security",
+          "Extended Window Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my window needs repair or replacement?",
+            "answer": "Common signs of window damage include cracks, leaks, condensation between the panes, and difficulty opening or closing the window. Our experts can assess the damage and recommend the best course of action."
+          },
+          {
+            "question": "Can you repair windows with broken seals?",
+            "answer": "Yes, we specialize in repairing windows with broken seals to eliminate condensation and improve energy efficiency."
+          },
+          {
+            "question": "Do you offer emergency window repair services?",
+            "answer": "Yes, we offer 24/7 emergency window repair services for urgent situations, such as broken windows that pose a security risk."
+          }
+        ]
+      },
+      {
+        "slug": "energy-efficient-windows",
+        "name": "Energy-Efficient Window Upgrades",
+        "shortDescription": "Lower your energy bills with our high-performance, energy-efficient window options.",
+        "description": "Arizona Auto Glass Pros is committed to helping Mesa homeowners reduce their energy consumption and save money on their utility bills. We offer a wide selection of energy-efficient windows designed to minimize heat transfer, block harmful UV rays, and improve overall home comfort. Our energy-efficient windows feature advanced technologies such as low-E glass coatings, insulated frames, and argon gas fills.\n\nWe work with leading window manufacturers to provide you with the highest-quality, energy-efficient windows on the market. Our team will assess your home's energy needs and recommend the best window options to maximize your energy savings. We also offer professional installation services to ensure that your new windows are properly sealed and insulated.\n\nInvesting in energy-efficient windows not only reduces your energy bills but also increases your home's value and enhances its curb appeal. Contact us today to learn more about our energy-efficient window solutions and start saving money on your energy bills.",
+        "process": [
+          "Energy Audit: Assess your home's energy efficiency.",
+          "Window Selection: Choose energy-efficient windows that meet your needs.",
+          "Professional Installation: Ensure proper sealing and insulation.",
+          "Energy Savings: Enjoy lower energy bills and a more comfortable home."
+        ],
+        "benefits": [
+          "Lower Energy Bills",
+          "Increased Home Comfort",
+          "Reduced Carbon Footprint",
+          "Enhanced Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of energy-efficient windows?",
+            "answer": "Energy-efficient windows can significantly reduce your energy bills, improve your home's comfort, and increase its value by reducing heat transfer through the glass."
+          },
+          {
+            "question": "What is low-E glass?",
+            "answer": "Low-E glass is a type of glass that has a special coating to reduce the amount of ultraviolet and infrared light that can pass through it, helping to keep your home cooler in the summer and warmer in the winter."
+          },
+          {
+            "question": "Are there any rebates or tax credits for energy-efficient windows?",
+            "answer": "Yes, there may be rebates or tax credits available for installing energy-efficient windows. Contact us for more information and assistance with applying for these incentives."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-installation",
+        "name": "Custom Window Solutions",
+        "shortDescription": "Unique window designs and installations to fit your specific aesthetic and architectural needs.",
+        "description": "Arizona Auto Glass Pros understands that some homes require custom window solutions to match their unique architectural styles or design preferences. We offer custom window design and installation services to create windows that perfectly complement your home's character and meet your specific needs.\n\nOur team works closely with homeowners, architects, and builders to create custom windows that are both beautiful and functional. We offer a wide range of customization options, including window shape, size, material, glass type, and hardware. Whether you're looking for a unique window shape for a historic home or a custom window design for a modern masterpiece, we can bring your vision to life.\n\nWe use the highest-quality materials and craftsmanship to ensure that your custom windows are durable, energy-efficient, and visually stunning. Our experienced technicians handle every aspect of the installation process with precision and care, ensuring a perfect fit and a seamless finish.",
+        "process": [
+          "Design Consultation: Discuss your vision and design requirements.",
+          "Custom Fabrication: Create windows to your exact specifications.",
+          "Expert Installation: Ensure a perfect fit and finish.",
+          "Final Approval: Confirm your satisfaction with the custom windows."
+        ],
+        "benefits": [
+          "Unique Window Designs",
+          "Perfect Fit for Your Home",
+          "Enhanced Architectural Style",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "Can you match the style of my existing windows?",
+            "answer": "Yes, we can create custom windows that match the style and design of your existing windows to maintain the architectural integrity of your home."
+          },
+          {
+            "question": "What materials are available for custom windows?",
+            "answer": "We offer a wide range of materials for custom windows, including wood, vinyl, aluminum, and fiberglass."
+          },
+          {
+            "question": "What is the process for designing custom windows?",
+            "answer": "Our process starts with a detailed consultation to understand your needs and preferences. We then create a design based on your specifications and provide you with a detailed quote before proceeding with fabrication and installation."
+          }
+        ]
+      },
+      {
+        "slug": "glass-replacement",
+        "name": "Glass Replacement Services",
+        "shortDescription": "Replace broken or damaged glass quickly and professionally.",
+        "description": "Arizona Auto Glass Pros offers comprehensive glass replacement services for residential and commercial properties in Mesa. Whether you have a cracked window, a shattered glass door, or a fogged-up insulated glass unit, our team can provide prompt and reliable glass replacement services to restore your windows and doors to their original condition.\n\nWe offer a wide range of glass options to meet your specific needs, including tempered glass, laminated glass, insulated glass, and decorative glass. Our technicians use high-quality materials and advanced techniques to ensure a perfect fit and a seamless finish. We also offer emergency glass replacement services for urgent situations.\n\nWe're committed to providing affordable and efficient glass replacement services to protect your home or business from the elements and maintain its aesthetic appeal. Contact us today for a free quote and let us help you with your glass replacement needs.",
+        "process": [
+          "Damage Assessment: Evaluate the extent of the damage.",
+          "Glass Selection: Choose the appropriate glass type for your needs.",
+          "Professional Replacement: Install the new glass with precision.",
+          "Safety Check: Ensure the replaced glass meets safety standards."
+        ],
+        "benefits": [
+          "Quick and Efficient Service",
+          "Wide Range of Glass Options",
+          "Improved Security",
+          "Enhanced Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "What types of glass do you offer?",
+            "answer": "We offer a wide range of glass options, including tempered glass, laminated glass, insulated glass, and decorative glass, to meet your specific needs."
+          },
+          {
+            "question": "How long does it take to replace a broken window?",
+            "answer": "The duration of a glass replacement project depends on the size and complexity of the project. We provide detailed timelines during the initial consultation."
+          },
+          {
+            "question": "Do you offer emergency glass replacement services?",
+            "answer": "Yes, we offer 24/7 emergency glass replacement services for urgent situations, such as broken windows that pose a security risk."
+          }
+        ]
+      },
+      {
+        "slug": "patio-door-replacement",
+        "name": "Patio Door Replacement",
+        "shortDescription": "Upgrade your patio door for enhanced security, energy efficiency and style.",
+        "description": "Arizona Auto Glass Pros offers professional patio door replacement services in Mesa, AZ. We understand that patio doors not only provide access to your outdoor living spaces but also play a crucial role in your home's energy efficiency, security, and overall aesthetic appeal. Our team is dedicated to helping you select and install the perfect patio door to meet your specific needs and enhance your home's value.\n\nWe offer a wide selection of patio door styles, including sliding glass doors, French doors, and bifold doors, in various materials such as vinyl, wood, and aluminum. Our patio doors are designed to withstand the harsh Arizona climate and provide superior insulation, security, and ease of operation. We also offer custom patio door solutions to match your unique architectural style and design preferences.\n\nOur experienced technicians handle every aspect of the patio door replacement process with precision and care, ensuring a perfect fit and a seamless finish. We also offer a comprehensive warranty on our patio door installations for your peace of mind.",
+        "process": [
+          "Consultation: Discuss your needs and preferences.",
+          "Door Selection: Choose the perfect patio door style and material.",
+          "Professional Installation: Ensure a secure and energy-efficient installation.",
+          "Final Inspection: Verify your satisfaction with the new patio door."
+        ],
+        "benefits": [
+          "Enhanced Security",
+          "Improved Energy Efficiency",
+          "Increased Home Value",
+          "Seamless Indoor-Outdoor Living"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of replacing my patio door?",
+            "answer": "Replacing your patio door can improve your home's energy efficiency, security, and aesthetic appeal, as well as increase its value."
+          },
+          {
+            "question": "What types of patio doors do you offer?",
+            "answer": "We offer a wide selection of patio door styles, including sliding glass doors, French doors, and bifold doors, in various materials."
+          },
+          {
+            "question": "How long does it take to replace a patio door?",
+            "answer": "The duration of a patio door replacement project depends on the style and complexity of the installation. We provide detailed timelines during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Phoenix",
+        "slug": "phoenix-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros is proud to offer our window replacement services to the residents of Phoenix, Arizona. From the historic neighborhoods with their iconic 1960s and 70s block construction homes to the modern developments downtown, we understand the unique architectural styles and needs of Phoenix homeowners. Our experienced technicians are equipped to handle any window replacement project, ensuring your home is energy-efficient and aesthetically pleasing. \n\nWe know that Phoenix summers can be brutal, with temperatures often exceeding 110°F. That's why we offer a range of energy-efficient window options designed to keep your home cool and comfortable while reducing your energy bills. Whether you need to replace a single broken window or upgrade all the windows in your home, Arizona Auto Glass Pros is here to provide reliable and affordable service.",
+        "localContext": "Phoenix, the state capital, boasts a diverse architectural landscape, from mid-century block homes to modern high-rises, requiring specialized window solutions for optimal energy efficiency in the extreme heat.",
+        "nearbyAreas": [
+          "Glendale",
+          "Scottsdale",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Scottsdale",
+        "slug": "scottsdale-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros provides premium window replacement services to the discerning homeowners of Scottsdale, Arizona. Known for its luxury Southwestern estates and upscale communities, Scottsdale demands the highest quality craftsmanship and attention to detail. We offer a wide selection of window styles and materials to complement the unique aesthetic of your home.\n\nOur skilled technicians are experienced in working with a variety of architectural designs, ensuring seamless integration and lasting performance. We understand the importance of energy efficiency in the Scottsdale climate, where summer temperatures regularly soar above 110°F. Let Arizona Auto Glass Pros help you choose the perfect windows to enhance the beauty and comfort of your Scottsdale home.",
+        "localContext": "Scottsdale, a city known for its upscale Southwestern estates, requires high-quality window solutions that combine aesthetic appeal with superior energy efficiency to combat the intense desert heat.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Paradise Valley",
+          "Tempe"
+        ]
+      },
+      {
+        "city": "Chandler",
+        "slug": "chandler-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros is your trusted partner for window replacement services in Chandler, Arizona. With its many planned developments built in the 1990s and 2000s, Chandler homes often share similar window styles and sizes, making replacement projects efficient and cost-effective. We offer a wide range of window options to suit your budget and aesthetic preferences.\n\nWe understand the challenges of living in the Arizona desert, especially during the scorching summer months. Our energy-efficient windows can help you save money on your energy bills while keeping your home cool and comfortable. From single-pane replacements to full-home window upgrades, Arizona Auto Glass Pros is committed to providing exceptional service and quality workmanship to Chandler residents.",
+        "localContext": "Chandler, characterized by its 1990s-2000s planned developments, benefits from standardized window sizes, making replacement projects efficient and cost-effective for homeowners seeking energy-efficient solutions.",
+        "nearbyAreas": [
+          "Gilbert",
+          "Tempe",
+          "Mesa"
+        ]
+      },
+      {
+        "city": "Gilbert",
+        "slug": "gilbert-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros is pleased to offer our window replacement services to the growing community of Gilbert, Arizona. With its newer construction homes built in the 2000s and 2020s, Gilbert boasts modern architectural styles and energy-efficient building practices. We offer a variety of window options to complement these contemporary designs.\n\nWe know that Gilbert residents value both style and performance. Our windows are designed to enhance the beauty of your home while providing superior energy efficiency and noise reduction. Whether you're looking to replace a single window or upgrade all the windows in your home, Arizona Auto Glass Pros is here to provide expert advice and professional installation services.",
+        "localContext": "Gilbert's newer construction, dating from the 2000s-2020s, often features energy-efficient designs, making window upgrades a strategic investment for maintaining comfortable indoor temperatures during extreme heat.",
+        "nearbyAreas": [
+          "Chandler",
+          "Mesa",
+          "Queen Creek"
+        ]
+      },
+      {
+        "city": "Tempe",
+        "slug": "tempe-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros proudly serves the residents of Tempe, Arizona, offering reliable and affordable window replacement services. With its unique blend of university-area homes near ASU and established neighborhoods, Tempe presents a diverse range of architectural styles and window needs. We are experienced in working with all types of homes, from historic bungalows to modern apartments.\n\nWe understand that Tempe homeowners are looking for energy-efficient solutions to combat the extreme summer heat. Our energy-efficient windows can help you save money on your energy bills while keeping your home cool and comfortable. Whether you need to replace a cracked window or upgrade all the windows in your home, Arizona Auto Glass Pros is here to provide exceptional service and quality workmanship.",
+        "localContext": "Tempe, a university town with homes near ASU, requires durable and energy-efficient window solutions to accommodate student housing and withstand the extreme heat common in the area.",
+        "nearbyAreas": [
+          "Mesa",
+          "Phoenix",
+          "Scottsdale"
+        ]
+      },
+      {
+        "city": "Mesa",
+        "slug": "mesa-az",
+        "state": "AZ",
+        "content": "As Arizona Auto Glass Pros, we're proud to call Mesa home and offer comprehensive window replacement services throughout the city. From older homes in the historic districts to newer developments on the outskirts, we understand the diverse architectural styles and window needs of Mesa residents. Our experienced technicians are equipped to handle any project, big or small.\n\nMesa summers are notoriously hot, and energy efficiency is a top priority for many homeowners. We offer a variety of energy-efficient window options designed to keep your home cool and comfortable while reducing your energy bills. Whether you're dealing with a broken window, outdated single-pane glass, or simply want to improve your home's energy performance, Arizona Auto Glass Pros is here to help with reliable and affordable service.",
+        "localContext": "Mesa, AZ is a diverse city with a mix of older and newer homes, demanding a wide range of window solutions from basic replacements to high-efficiency upgrades to combat the desert heat.",
+        "nearbyAreas": [
+          "Tempe",
+          "Gilbert",
+          "Chandler"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros extends its expert window replacement services to Glendale, Arizona. We cater to the diverse needs of Glendale residents, offering solutions for everything from historic homes to modern constructions. Our team is committed to providing reliable and efficient service, ensuring your home is both beautiful and energy-efficient.\n\nGlendale's climate demands windows that can withstand extreme heat. We offer a range of energy-efficient options that can significantly reduce your energy bills and keep your home comfortable year-round. From small repairs to full window replacements, Arizona Auto Glass Pros is your trusted partner for all your window needs in Glendale.",
+        "localContext": "Glendale, with its mix of older and newer homes, requires versatile window solutions that balance aesthetic appeal with the need for superior energy efficiency during the hot Arizona summers.",
+        "nearbyAreas": [
+          "Phoenix",
+          "Peoria",
+          "Surprise"
+        ]
+      },
+      {
+        "city": "Peoria",
+        "slug": "peoria-az",
+        "state": "AZ",
+        "content": "Arizona Auto Glass Pros is dedicated to providing top-notch window replacement services to the residents of Peoria, Arizona. We understand the unique needs of homeowners in Peoria, offering a comprehensive range of window solutions to suit every style and budget. Our experienced technicians are committed to delivering exceptional workmanship and customer satisfaction. \n\nPeoria's warm climate makes energy-efficient windows a must-have for homeowners. We offer a variety of options designed to reduce energy consumption and keep your home comfortable throughout the year. Whether you need a single window replaced or a complete home upgrade, Arizona Auto Glass Pros is here to help you find the perfect solution.",
+        "localContext": "Peoria, a growing city with a mix of residential and commercial properties, necessitates window solutions that cater to both aesthetic preferences and the need for energy efficiency in the desert climate.",
+        "nearbyAreas": [
+          "Glendale",
+          "Surprise",
+          "Phoenix"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Residential Window Replacement",
+        "text": "Arizona Auto Glass Pros replaced all the windows in my Mesa home. The team was professional, efficient, and the new windows have already made a noticeable difference in my energy bills. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Window Repair",
+        "text": "I had a cracked window and they came out quickly to repair it. The technician was very knowledgeable and the repair was done perfectly. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Energy-Efficient Window Upgrades",
+        "text": "We upgraded to energy-efficient windows and it was the best decision! Our house is so much cooler during the summer, and the installation process was smooth and hassle-free. Thanks, Arizona Auto Glass Pros!",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Commercial Window Replacement",
+        "text": "Arizona Auto Glass Pros replaced the windows in our office building. They were professional, efficient, and the new windows look great and have improved the building's energy efficiency.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Ashley M.",
+        "rating": 4,
+        "service": "Patio Door Replacement",
+        "text": "Replaced my old sliding glass door with a new one, and I'm very happy with the result. The new door is much more energy-efficient and looks fantastic! Minor hiccup with scheduling, but they resolved it quickly.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Kevin B.",
+        "rating": 5,
+        "service": "Custom Window Installation",
+        "text": "Had custom windows installed in my home and the results are amazing. The windows fit perfectly and look exactly how I envisioned. The team was professional and attentive to detail.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Mesa AZ Window Replacement | Arizona Auto Glass Pros",
+        "description": "Expert window replacement in Mesa, AZ. Energy-efficient windows, fast repairs, and reliable service. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Arizona Auto Glass Pros in Mesa",
+        "description": "Learn about Arizona Auto Glass Pros, Mesa's trusted window replacement company. Quality, experience, and local commitment."
+      },
+      "services": {
+        "title": "Window Services | Arizona Auto Glass Pros",
+        "description": "Comprehensive window services in Mesa: replacement, repair, energy-efficient upgrades, and custom solutions. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact Us | Arizona Auto Glass Pros in Mesa",
+        "description": "Contact Arizona Auto Glass Pros for window replacement and repair services in Mesa, AZ. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Arizona Auto Glass Pros",
+        "description": "Read reviews from satisfied Arizona Auto Glass Pros customers in Mesa. See why we're the trusted choice for window services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Arizona Auto Glass Pros",
+        "description": "Arizona Auto Glass Pros provides window replacement and repair services throughout the Phoenix metro area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-window-replacement": "/images/service-residential-window-replacement.webp",
+      "commercial-window-replacement": "/images/service-commercial-window-replacement.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "energy-efficient-windows": "/images/service-energy-efficient-windows.webp",
+      "custom-window-installation": "/images/service-custom-window-installation.webp",
+      "glass-replacement": "/images/service-glass-replacement.webp",
+      "patio-door-replacement": "/images/service-patio-door-replacement.webp"
+    },
+    "servicesResponsive": {
+      "residential-window-replacement": {
+        "src": "/images/service-residential-window-replacement.webp",
+        "srcset": "/images/service-residential-window-replacement-400w.webp 400w, /images/service-residential-window-replacement-800w.webp 800w, /images/service-residential-window-replacement-1200w.webp 1200w, /images/service-residential-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-window-replacement": {
+        "src": "/images/service-commercial-window-replacement.webp",
+        "srcset": "/images/service-commercial-window-replacement-400w.webp 400w, /images/service-commercial-window-replacement-800w.webp 800w, /images/service-commercial-window-replacement-1200w.webp 1200w, /images/service-commercial-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "energy-efficient-windows": {
+        "src": "/images/service-energy-efficient-windows.webp",
+        "srcset": "/images/service-energy-efficient-windows-400w.webp 400w, /images/service-energy-efficient-windows-800w.webp 800w, /images/service-energy-efficient-windows-1200w.webp 1200w, /images/service-energy-efficient-windows.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-installation": {
+        "src": "/images/service-custom-window-installation.webp",
+        "srcset": "/images/service-custom-window-installation-400w.webp 400w, /images/service-custom-window-installation-800w.webp 800w, /images/service-custom-window-installation-1200w.webp 1200w, /images/service-custom-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "glass-replacement": {
+        "src": "/images/service-glass-replacement.webp",
+        "srcset": "/images/service-glass-replacement-400w.webp 400w, /images/service-glass-replacement-800w.webp 800w, /images/service-glass-replacement-1200w.webp 1200w, /images/service-glass-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-door-replacement": {
+        "src": "/images/service-patio-door-replacement.webp",
+        "srcset": "/images/service-patio-door-replacement-400w.webp 400w, /images/service-patio-door-replacement-800w.webp 800w, /images/service-patio-door-replacement-1200w.webp 1200w, /images/service-patio-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
